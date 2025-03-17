@@ -18,3 +18,10 @@
 </br>
 
 ## 실습 내용 👩🏻‍💻
+
+- Tensorflow and Pytorch Tutorials
+- Computer Vision by Tensorflow and Pytorch
+- Natural Language Processing by Tensorflow and Pytorch
+- Kaggle Competitions
+
+</br>
