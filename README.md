@@ -11,5 +11,10 @@
 
 ## 학습 내용 ✏️
 
-|학습 일정|교육 내용|
-|:-------:|:-------:|
+- Deep Learning Overview and Feedback neural networks
+- Convolutional networks and Computer Vision
+- Recurrent neural networks and Natural Language Processing
+
+</br>
+
+## 실습 내용 👩🏻‍💻
